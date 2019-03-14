@@ -95,7 +95,7 @@
 	    <snapshotRepository>
 	      <id>snapshot</id>
 	      <name>snapshot</name>
-	      <url>http://13.234.117.62:8085/repository/Flipkart_Hosted_Snapshot//</url>
+	      <url>http://13.234.117.62:8085/repository/Flipkart_Hosted_Snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
